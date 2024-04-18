@@ -1,4 +1,4 @@
-# **Todo App**
+# **UI/UX GPT Page**
 
 ## [**<u>Link to website</u>**](http://miller-113.github.io/UI-UX-GPT3)
 
