@@ -1,4 +1,4 @@
-import { Article, Navbar, Brand, CTA } from "./components";
+import { Navbar, Brand, CTA } from "./components";
 import {
   Header,
   Blog,
@@ -14,7 +14,6 @@ function App() {
   return (
     <div className="App">
       <div className="gradient__bg">
-        {/* <Article></Article> */}
         <Navbar />
         <Header />
       </div>
