@@ -1,32 +1,70 @@
-# React + TypeScript + Vite
+# **Todo App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [**<u>Link to website</u>**](http://miller-113.github.io/UI-UX-GPT3)
 
-Currently, two official plugins are available:
+#### It is an application where you can create, update, sort, and perform many other task operations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## **Content**
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [Technologies](#technologies)
+- [Using](#using)
 
-- Configure the top-level `parserOptions` property like this:
+<hr>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: "latest",
-    sourceType: "module",
-    project: ["./tsconfig.json", "./tsconfig.node.json"],
-    tsconfigRootDir: __dirname,
-  },
-};
+## **Technologies**
+
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://www.w3.org/Style/CSS/)
+- [SCSS](https://sass-lang.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+
+## **Using**
+
+**If you want to use this project for your own purposes, you should:**
+
+1. Clone the repository to your folder;
+2. Go to project;
+3. Installing all dependencies;
+
+```sh
+ 1. git clone https://github.com/miller-113/UI-UX-GPT3.git
+ 2. cd todo-app
+ 3. yarn
+    #or
+    npm install
+    #or
+    pnpm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Requirements
 
-## [Link to Figma](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?type=design&node-id=0-15&mode=design&t=l4QQxAb0uaDondfI-0)
+To install and run the project, you need [NodeJS](https://nodejs.org/).
+
+### Starting the `Client`
+
+To start the `client`, run the command:
+
+```sh
+yarn dev
+#or
+npm dev
+#or
+pnpm dev
+```
+
+### `Build` creation
+
+To run a production `build`, run the command:
+
+```sh
+yarn build
+#or
+npm build
+#or
+pnpm build
+```
+
+<hr>
