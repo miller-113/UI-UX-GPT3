@@ -1,4 +1,4 @@
-# **UI/UX GPT Page**
+# **GPT Page Layout**
 
 ## [**<u>Link to website</u>**](http://miller-113.github.io/UI-UX-GPT3)
 
